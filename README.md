@@ -2,12 +2,12 @@
 
 I'm a passionate software engineer with a strong focus on front-end development. With over a decade of experience in the industry, I've honed my skills in crafting intuitive user interfaces and bringing them to life with cutting-edge web technologies.
 
-- 🌱 I’m currently learning Next.JS
+- 🌱 I’m currently learning [Next.JS](https://nextjs.org/) | [Vanilla Extract](https://vanilla-extract.style/)
 - 💬 Ask me about Design Systems
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rowan-parkinson-87419a30/)
 
 ### Languages and tools
-![CSS3 logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg, "CSS3 logo")
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40" />
 
 
 <!--
