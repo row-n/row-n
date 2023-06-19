@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a passionate software engineer with a strong focus on front-end development. With over a decade of experience in the industry, I've honed my skills in crafting intuitive user interfaces and bringing them to life with cutting-edge web technologies.
+
+- 🌱 I’m currently learning Next.JS
+- 💬 Ask me about Design Systems
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rowan-parkinson-87419a30/)
+
 <!--
 **row-n/row-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
