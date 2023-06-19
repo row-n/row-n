@@ -6,6 +6,10 @@ I'm a passionate software engineer with a strong focus on front-end development.
 - 💬 Ask me about Design Systems
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rowan-parkinson-87419a30/)
 
+### Languages and tools
+![CSS3 logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg, "CSS3 logo")
+
+
 <!--
 **row-n/row-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
