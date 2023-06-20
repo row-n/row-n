@@ -2,25 +2,10 @@
 
 I'm a passionate software engineer with a strong focus on front-end development. With over a decade of experience in the industry, I've honed my skills in crafting intuitive user interfaces and bringing them to life with cutting-edge web technologies.
 
-- 🌱 I’m currently learning [Next.JS](https://nextjs.org/) | [Vanilla Extract](https://vanilla-extract.style/)
-- 💬 Ask me about Design Systems
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rowan-parkinson-87419a30/)
+I’m currently exploring [Next.JS](https://nextjs.org/) | [Vanilla Extract](https://vanilla-extract.style/)
 
-### Languages and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40" />
+#### Expertise
+<img src="https://simpleicons.org/icons/css3.svg" alt="CSS3" width="30" height="30" /><img src="https://simpleicons.org/icons/html5.svg" alt="HTML5" width="30" height="30" /><img src="https://simpleicons.org/icons/javascript.svg" alt="Javascript" width="30" height="30" /><img src="https://simpleicons.org/icons/react.svg" alt="React" width="30" height="30" /><img src="https://simpleicons.org/icons/git.svg" alt="Git" width="30" height="30" /><img src="https://simpleicons.org/icons/webpack.svg" alt="Webpack" width="30" height="30" /><img src="https://simpleicons.org/icons/npm.svg" alt="NPM" width="30" height="30" /><img src="https://simpleicons.org/icons/buildkite.svg" alt="Buildkite" width="30" height="30" /><img src="https://simpleicons.org/icons/storybook.svg" alt="Storybook" width="30" height="30" />
 
-
-<!--
-**row-n/row-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact information
+<a href="https://www.linkedin.com/in/rowan-parkinson-87419a30/"><img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" /></a><a href="https://codepen.io/row-n"><img src="https://simpleicons.org/icons/codepen.svg" alt="CodePen" width="30" height="30" /></a>
